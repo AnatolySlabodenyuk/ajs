@@ -1,13 +1,21 @@
 {
-  "name": "ajs",
+  "name": "@anatolyslabodenyuk/ajs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "keywords": [],
+  "homepage": "https://github.com/AnatolySlabodenyuk/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/AnatolySlabodenyuk/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatolySlabodenyuk/ajs.git"
+  },
+  "license": "ISC",
+  "author": "Anatoly Slabodenyuk",
+  "type": "commonjs",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  }
 }
